@@ -1,0 +1,23 @@
+/* src/index.css or wherever you include your Tailwind directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "DIN Neuzeit Grotesk LT W01";
+    src: url("https://db.onlinewebfonts.com/t/bb2e1211dfd31103079dbce7c49e1d4e.eot");
+    src: url("https://db.onlinewebfonts.com/t/bb2e1211dfd31103079dbce7c49e1d4e.eot?#iefix") format("embedded-opentype"),
+         url("https://db.onlinewebfonts.com/t/bb2e1211dfd31103079dbce7c49e1d4e.woff2") format("woff2"),
+         url("https://db.onlinewebfonts.com/t/bb2e1211dfd31103079dbce7c49e1d4e.woff") format("woff"),
+         url("https://db.onlinewebfonts.com/t/bb2e1211dfd31103079dbce7c49e1d4e.ttf") format("truetype"),
+         url("https://db.onlinewebfonts.com/t/bb2e1211dfd31103079dbce7c49e1d4e.svg#DIN_Neuzeit_Grotesk_LT_W01_BdCn") format("svg");
+    font-weight: 400; /* or bold, depending on the font weight */
+    font-style: normal;
+    size: 37px;
+    line-height: 37px;
+}
+
+/* Apply the font globally */
+html {
+    font-family: "DIN Neuzeit Grotesk LT W01", sans-serif; /* Use the correct font name */
+}
