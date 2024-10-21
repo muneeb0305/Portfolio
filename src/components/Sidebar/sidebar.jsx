@@ -52,7 +52,6 @@ export default function Sidebar({ children }) {
                 <MenuItem
                   key={index}
                   href={item.href}
-                  iconPath={item.iconPath}
                   label={item.label}
                   badge={item.badge}
                 />
@@ -62,7 +61,7 @@ export default function Sidebar({ children }) {
         </div>
       </aside>
 
-      <div className="p-4 md:ml-52 lg:ml-10 xl:ml-40">
+      <div className="p-4 md:ml-52 lg:ml-10 xl:ml-52">
         <div className="px-0 pt-10 md:px-3 md:pt-0 lg:pr-20 lg:pl-52 xl:px-24 2xl:pr-16 2xl:pl-32">
           {children}
         </div>
