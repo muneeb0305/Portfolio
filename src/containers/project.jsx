@@ -7,10 +7,7 @@ const Card = lazy(() => import("../components/Card/card"));
 export default function Project() {
   return (
     <Suspense fallback={<Loading />}>
-      <div
-        className="grid grid-cols-2 lg:grid-cols-3 gap-4 "
-        data-aos="fade-up"
-      >
+      <div className="grid grid-cols-2 lg:grid-cols-3 gap-4 ">
         {projectData.map((data, index) => (
           <Card
             key={index}

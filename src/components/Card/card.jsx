@@ -24,7 +24,6 @@ export default function Card({ imagePath, alt, title, styleType, modal, url }) {
            ${styleType === "horizontal" ? "row-span-2 " : "row-span-1"}
           `}
         onClick={openModal}
-        data-aos="fade-up"
       >
         <LazyLoadImage
           className="w-full h-full object-fill"
@@ -34,7 +33,6 @@ export default function Card({ imagePath, alt, title, styleType, modal, url }) {
           effect="blur"
         />
         <div
-        
           className={`absolute inset-0 bottom-0 bg-black 
           bg-opacity-30
           opacity-0 group-hover:opacity-100 

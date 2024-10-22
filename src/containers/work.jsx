@@ -7,7 +7,7 @@ const Card = lazy(() => import("../components/Card/card"));
 export default function Work() {
   return (
     <Suspense fallback={<Loading />}>
-      <div className="grid grid-cols-2 lg:grid-cols-3 gap-4">
+      <div className="columns-3 gap-4">
         {workData.map((data, index) => (
           <Card
             key={index}
