@@ -1,11 +1,16 @@
-import React from "react";
-import Card from "../components/Card/card";
+import React, { lazy, Suspense } from "react";
 import { projectData } from "../data/projectData";
+import Loading from "../components/Loader/loader";
+
+const Card = lazy(() => import("../components/Card/card"));
 
 export default function Project() {
   return (
-    <>
-      <div className="grid grid-cols-2 lg:grid-cols-3 gap-4">
+    <Suspense fallback={<Loading />}>
+      <div
+        className="grid grid-cols-2 lg:grid-cols-3 gap-4 "
+        data-aos="fade-up"
+      >
         {projectData.map((data, index) => (
           <Card
             key={index}
@@ -13,9 +18,10 @@ export default function Project() {
             alt={data.alt}
             title={data.title}
             styleType={data.styleType}
+            url={data.url}
           />
         ))}
       </div>
-    </>
+    </Suspense>
   );
 }

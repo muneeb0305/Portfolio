@@ -12,10 +12,6 @@ export const menuItemsData = [
     label: "Work",
   },
   {
-    href: "/all",
-    label: "All",
-  },
-  {
     href: "/about",
     label: "About",
   },
