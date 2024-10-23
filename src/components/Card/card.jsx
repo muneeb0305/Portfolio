@@ -20,13 +20,11 @@ export default function Card({ imagePath, alt, title, styleType, modal, url }) {
   return (
     <>
       <div
-        className={`w-full bg-white border border-gray-200 shadow-lg relative group overflow-hidden mb-5
-           ${styleType === "horizontal" ? "row-span-2 " : "row-span-1"}
-          `}
+        className=" bg-white border border-gray-200 shadow-lg relative group overflow-hidden mb-5 flex flex-col h-min"
         onClick={openModal}
       >
         <LazyLoadImage
-          className="w-full h-full object-fill"
+          className=" object-contain"
           src={imagePath}
           alt={alt}
           loading="lazy"
