@@ -25,7 +25,6 @@ export default function Print() {
             imagePath={data.imagePath}
             alt={data.alt}
             title={data.title}
-            styleType={data.styleType}
             modal={true}
           />
         ))}

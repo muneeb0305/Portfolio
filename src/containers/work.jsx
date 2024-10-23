@@ -18,14 +18,12 @@ export default function Work() {
         className="flex w-auto"
         columnClassName="p-2"
       >
-        {" "}
         {workData.map((data, index) => (
           <Card
             key={index}
             imagePath={data.imagePath}
             alt={data.alt}
             title={data.title}
-            styleType={data.styleType}
             url={data.url}
           />
         ))}

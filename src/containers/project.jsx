@@ -25,7 +25,6 @@ export default function Project() {
             imagePath={data.imagePath}
             alt={data.alt}
             title={data.title}
-            styleType={data.styleType}
             url={data.url}
           />
         ))}

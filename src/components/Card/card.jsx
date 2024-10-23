@@ -3,7 +3,7 @@ import Modal from "../Modal/modal";
 import { LazyLoadImage } from "react-lazy-load-image-component";
 import "react-lazy-load-image-component/src/effects/blur.css";
 
-export default function Card({ imagePath, alt, title, styleType, modal, url }) {
+export default function Card({ imagePath, alt, title, modal, url }) {
   const [isModalOpen, setIsModalOpen] = useState(false);
 
   const openModal = () => {
@@ -20,6 +20,7 @@ export default function Card({ imagePath, alt, title, styleType, modal, url }) {
   return (
     <>
       <div
+        data-aos="fade-up"
         className=" bg-white border border-gray-200 shadow-lg relative group overflow-hidden mb-5 flex flex-col h-min"
         onClick={openModal}
       >
