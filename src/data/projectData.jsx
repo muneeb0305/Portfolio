@@ -1,15 +1,15 @@
-import UnitedNaton from "../assets/United Nations Population Fund with Brown institute.jpeg";
-import EmergingMarket from "../assets/Emerging markets tracker.jpg";
+import UnitedNaton from "../assets/United Nations Population Fund with Brown institute.webp";
+import EmergingMarket from "../assets/Emerging markets tracker.webp";
 import MacroEconomicTracker from "../assets/India’s economic report card is drenched in red ink.gif";
-import HowLivableIsYourCity from "../assets/How livable is your city.png";
+import HowLivableIsYourCity from "../assets/How livable is your city.webp";
 import HowSexistIsYourNeta from "../assets/How sexist is your NetaHow sexist is your Neta.gif";
-import What15thFinComm from "../assets/What 15th Fin Comm award means for India's states, in five charts.jpg";
-import TheElectoralCalculus from "../assets/The electoral calculus in Bihar.png";
-import CovidCoverage from "../assets/Covid Coverage.jpeg";
-import WillDelhisOddEvenPolicyWork from "../assets/Will Delhi’s odd-even policy work.jpg";
-import SeditionCasesInIndiaWhatDataSays from "../assets/Sedition cases in India What data says.png";
-import WhichIsIndiasNoisiestCity from "../assets/Which is India’s noisiest city.jpeg";
-import TheStateOfSocialInfrastructureInMetros from "../assets/The state of social infrastructure in metros.jpeg";
+import What15thFinComm from "../assets/What 15th Fin Comm award means for India's states, in five charts.webp";
+import TheElectoralCalculus from "../assets/The electoral calculus in Bihar.webp";
+import CovidCoverage from "../assets/Covid Coverage.webp";
+import WillDelhisOddEvenPolicyWork from "../assets/Will Delhi’s odd-even policy work.webp";
+import SeditionCasesInIndiaWhatDataSays from "../assets/Sedition cases in India What data says.webp";
+import WhichIsIndiasNoisiestCity from "../assets/Which is India’s noisiest city.webp";
+import TheStateOfSocialInfrastructureInMetros from "../assets/The state of social infrastructure in metros.webp";
 import BBC from "../assets/2015 CANDIDATES  UK.gif";
 import NHS from "../assets/Health Explorer Wales.gif";
 
