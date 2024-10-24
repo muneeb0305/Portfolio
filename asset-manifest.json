@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.9e40b327.css",
-    "main.js": "/Portfolio/static/js/main.9dc9062a.js",
+    "main.css": "/Portfolio/static/css/main.32a49362.css",
+    "main.js": "/Portfolio/static/js/main.69e78dad.js",
     "static/js/731.a3487d96.chunk.js": "/Portfolio/static/js/731.a3487d96.chunk.js",
     "static/js/633.517a398e.chunk.js": "/Portfolio/static/js/633.517a398e.chunk.js",
     "static/js/925.48e62e0d.chunk.js": "/Portfolio/static/js/925.48e62e0d.chunk.js",
-    "static/js/732.13f669fc.chunk.js": "/Portfolio/static/js/732.13f669fc.chunk.js",
+    "static/js/21.fd12a53b.chunk.js": "/Portfolio/static/js/21.fd12a53b.chunk.js",
     "static/css/778.96e55040.chunk.css": "/Portfolio/static/css/778.96e55040.chunk.css",
     "static/js/778.bd83fb47.chunk.js": "/Portfolio/static/js/778.bd83fb47.chunk.js",
     "static/js/327.27b1d06e.chunk.js": "/Portfolio/static/js/327.27b1d06e.chunk.js",
+    "static/js/822.1d18fc56.chunk.js": "/Portfolio/static/js/822.1d18fc56.chunk.js",
     "static/media/How sexist is your NetaHow sexist is your Neta.gif": "/Portfolio/static/media/How sexist is your NetaHow sexist is your Neta.491d5aedd23fa09f26b2.gif",
     "static/media/2015 CANDIDATES  UK.gif": "/Portfolio/static/media/2015 CANDIDATES  UK.5d228c346887d3263d9c.gif",
     "static/media/India’s economic report card is drenched in red ink.gif": "/Portfolio/static/media/India’s economic report card is drenched in red ink.abe94fc6a178dac8d623.gif",
@@ -179,6 +180,7 @@
     "static/media/Tamil Nadu sees revival in corona spread, Gujarat curve begins to bend.webp": "/Portfolio/static/media/Tamil Nadu sees revival in corona spread, Gujarat curve begins to bend.8f8aee2ab54e739998fa.webp",
     "static/media/Deaths slow down in Madhya Pradesh, pick up in Haryana.webp": "/Portfolio/static/media/Deaths slow down in Madhya Pradesh, pick up in Haryana.8a158b966ac232b81c04.webp",
     "static/media/Numbers to watch this week inflation, pharma results and more.webp": "/Portfolio/static/media/Numbers to watch this week inflation, pharma results and more.348d549b00a23ab915c2.webp",
+    "static/media/pooja.jpeg": "/Portfolio/static/media/pooja.5e461aabb7218db62b69.jpeg",
     "static/media/Mint Covid Tracker India’s coronavirus curve picks up pace again.webp": "/Portfolio/static/media/Mint Covid Tracker India’s coronavirus curve picks up pace again.a4dbd8dfc333517b164e.webp",
     "static/media/These states are leading India's economic fightback.webp": "/Portfolio/static/media/These states are leading India's economic fightback.d9a4c3aba11387e9f12d.webp",
     "static/media/Coronavirus spreading again in West Bengal, Rajasthan.webp": "/Portfolio/static/media/Coronavirus spreading again in West Bengal, Rajasthan.38c49856b6095de421bc.webp",
@@ -261,18 +263,19 @@
     "static/media/At the current pace, India is likely to cross 500,000 cases in 10 days.webp": "/Portfolio/static/media/At the current pace, India is likely to cross 500,000 cases in 10 days.2919dfb5fa0fb8b2e686.webp",
     "index.html": "/Portfolio/index.html",
     "static/media/For Every 2 Militants Killed, Forces Lost 1 of Its Men Tracing Violence in Kashmir Since 2014.webp": "/Portfolio/static/media/For Every 2 Militants Killed, Forces Lost 1 of Its Men Tracing Violence in Kashmir Since 2014.34514a9c0ac6eb8a2f25.webp",
-    "main.9e40b327.css.map": "/Portfolio/static/css/main.9e40b327.css.map",
-    "main.9dc9062a.js.map": "/Portfolio/static/js/main.9dc9062a.js.map",
+    "main.32a49362.css.map": "/Portfolio/static/css/main.32a49362.css.map",
+    "main.69e78dad.js.map": "/Portfolio/static/js/main.69e78dad.js.map",
     "731.a3487d96.chunk.js.map": "/Portfolio/static/js/731.a3487d96.chunk.js.map",
     "633.517a398e.chunk.js.map": "/Portfolio/static/js/633.517a398e.chunk.js.map",
     "925.48e62e0d.chunk.js.map": "/Portfolio/static/js/925.48e62e0d.chunk.js.map",
-    "732.13f669fc.chunk.js.map": "/Portfolio/static/js/732.13f669fc.chunk.js.map",
+    "21.fd12a53b.chunk.js.map": "/Portfolio/static/js/21.fd12a53b.chunk.js.map",
     "778.96e55040.chunk.css.map": "/Portfolio/static/css/778.96e55040.chunk.css.map",
     "778.bd83fb47.chunk.js.map": "/Portfolio/static/js/778.bd83fb47.chunk.js.map",
-    "327.27b1d06e.chunk.js.map": "/Portfolio/static/js/327.27b1d06e.chunk.js.map"
+    "327.27b1d06e.chunk.js.map": "/Portfolio/static/js/327.27b1d06e.chunk.js.map",
+    "822.1d18fc56.chunk.js.map": "/Portfolio/static/js/822.1d18fc56.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e40b327.css",
-    "static/js/main.9dc9062a.js"
+    "static/css/main.32a49362.css",
+    "static/js/main.69e78dad.js"
   ]
 }
